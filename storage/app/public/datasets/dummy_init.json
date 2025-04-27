@@ -1,0 +1,86 @@
+[
+    {
+        "persen_laporan": 0.5295,
+        "persen_bolos": 0.1749,
+        "persen_kehadiran": 0.8585,
+        "jumlah_hari": 147,
+        "nilai": 69.41
+    },
+    {
+        "persen_laporan": 0.9526,
+        "persen_bolos": 0.2595,
+        "persen_kehadiran": 0.8301,
+        "jumlah_hari": 150,
+        "nilai": 90.31
+    },
+    {
+        "persen_laporan": 0.6376,
+        "persen_bolos": 0.2179,
+        "persen_kehadiran": 0.8700,
+        "jumlah_hari": 128,
+        "nilai": 76.19
+    },
+    {
+        "persen_laporan": 0.8183,
+        "persen_bolos": 0.1942,
+        "persen_kehadiran": 0.7326,
+        "jumlah_hari": 154,
+        "nilai": 86.72
+    },
+    {
+        "persen_laporan": 0.5404,
+        "persen_bolos": 0.1255,
+        "persen_kehadiran": 0.8135,
+        "jumlah_hari": 117,
+        "nilai": 70.41
+    },
+    {
+        "persen_laporan": 1,
+        "persen_bolos": 0.1232,
+        "persen_kehadiran": 0.9976,
+        "jumlah_hari": 135,
+        "nilai": 100.00
+    },
+    {
+        "persen_laporan": 0.6950,
+        "persen_bolos": 0.1854,
+        "persen_kehadiran": 0.7885,
+        "jumlah_hari": 115,
+        "nilai": 78.68
+    },
+    {
+        "persen_laporan": 0.7690,
+        "persen_bolos": 0.1018,
+        "persen_kehadiran": 0.8025,
+        "jumlah_hari": 175,
+        "nilai": 87.82
+    },
+    {
+        "persen_laporan": 0.5010,
+        "persen_bolos": 0.2176,
+        "persen_kehadiran": 0.8092,
+        "jumlah_hari": 125,
+        "nilai": 81.22
+    },
+    {
+        "persen_laporan": 0.9804,
+        "persen_bolos": 0.1003,
+        "persen_kehadiran": 0.7823,
+        "jumlah_hari": 95,
+        "nilai": 98.80
+    },
+    {
+        "persen_laporan": 0.2,
+        "persen_bolos": 0,
+        "persen_kehadiran": 0.2,
+        "jumlah_hari": 120,
+        "nilai": 20
+    },
+    {
+        "persen_laporan": 0,
+        "persen_bolos": 0,
+        "persen_kehadiran": 0,
+        "jumlah_hari": 60,
+        "nilai": 0
+    }
+]
