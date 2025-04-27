@@ -1,0 +1,187 @@
+[33mcommit 42283361f7a85587f457094073ff147c8b931650[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Reza 1290 <reza.muktasib@gmail.com>
+Date:   Mon Apr 28 01:31:47 2025 +0700
+
+    final
+
+[33mcommit a31ea561ef3c08547fb0dedc5a5248090b68c851[m
+Author: Reza 1290 <reza.muktasib@gmail.com>
+Date:   Tue Apr 22 06:41:31 2025 +0700
+
+    final
+
+[33mcommit 41ccd91c65d1bc6d925704817885054afe10bc16[m
+Author: Saugi <saugi.dev@gmail.com>
+Date:   Fri May 31 20:02:25 2024 +0700
+
+    docs: add sponsors
+
+[33mcommit 51e975b8f969686fbb510aa15ee3d8165458fc10[m
+Merge: 0587c26 552e6f0
+Author: Saugi <saugi.dev@gmail.com>
+Date:   Thu Jun 1 14:25:30 2023 +0700
+
+    Merge pull request #19 from dipras/migrate-to-vite
+    
+    Feat: Migrate laravel mix to vite
+
+[33mcommit 0587c266dc5dae5b6e9c9c88b60131f6cd2345ff[m
+Author: Dipras <dipras75@gmail.com>
+Date:   Thu Jun 1 14:09:43 2023 +0700
+
+    Fix: Missing CSRF in forgot password page (#18)
+    
+    * Fix csrf error in forgot password page
+    
+    * Fix reset password page UI
+
+[33mcommit 552e6f071f249bebf5f6c8f73e7e2a68464b5727[m
+Author: Dipras <dipras75@gmail.com>
+Date:   Tue May 30 12:15:46 2023 +0700
+
+    Remove laravel-mix package and change scripts package
+
+[33mcommit 16634516b7a3066bd2362ec906603b5b16894a7d[m
+Author: Dipras <dipras75@gmail.com>
+Date:   Tue May 30 12:07:23 2023 +0700
+
+    Migrate laravel mix to vite
+
+[33mcommit 796c2078fee6b65af46014808020702b00e3e1a8[m
+Author: Dipras <dipras75@gmail.com>
+Date:   Sun May 28 20:26:18 2023 +0700
+
+    feat: Setup Docker (#16)
+
+[33mcommit afa8cdd4d3a189abf6816a6ffc00789b8422b00b[m
+Author: Dipras <dipras75@gmail.com>
+Date:   Thu Mar 2 08:42:21 2023 +0700
+
+    feat: sidebar submenu active checking using current route (#15)
+    
+    * sidebar submenu
+    
+    * opened submenu when active
+    
+    * group route auth middleware
+
+[33mcommit 2ade3b25af1fe8db857262279f57425766425513[m
+Author: Dipras <dipras75@gmail.com>
+Date:   Sun Feb 12 09:42:01 2023 +0700
+
+    feat: add photo profile template (#14)
+    
+    * Add Photo Profile template
+    
+    * Update user information photo profile with mazer avatar
+
+[33mcommit 6fd786fad1e44b54938bcc00c63683c9456f4f08[m
+Author: Marin Delija <marindelija@gmail.com>
+Date:   Wed Jul 20 08:52:06 2022 +0200
+
+    feat: update bootstrap and add dark mode (#10)
+    
+    * update bootstrap and add dark mode
+    
+    * Update mix-manifest.json
+    
+    * add sass files for dark mode
+    
+    * added missing scss files
+
+[33mcommit 2d954855fe1878cdf2c4cec78039acd4acd5a232[m
+Author: Rizki Fitra R <39044004+Rizki36@users.noreply.github.com>
+Date:   Wed May 18 10:14:25 2022 +0700
+
+    fixed wrong default email (#8)
+
+[33mcommit b6563575d277df71ae040fc1db45a2f4e7253ed2[m
+Author: Muhammad Saim <muhammadsaim494@gmail.com>
+Date:   Sat Mar 19 12:12:49 2022 +0500
+
+    feat: upgrade laravel 8 to laravel 9
+    
+    - Upgrade
+    - Enable register
+    - Add dummy user
+
+[33mcommit 78eeedc7c1940a17e838a456076baf2c5167f494[m
+Merge: 922a3ae c2ed5ec
+Author: Ahmad Saugi <saugi.dev@gmail.com>
+Date:   Thu Feb 24 13:48:49 2022 +0700
+
+    Merge pull request #6 from DanielVera987/main
+    
+    Add: Bootstrap custom variables
+
+[33mcommit c2ed5ec80af7d9d216e509864d7bad29de0cba37[m
+Author: Daniel Alberto Vera Angulo <danielveraangulo703@gmail.com>
+Date:   Wed Feb 23 14:47:03 2022 -0500
+
+    Add custom variables
+
+[33mcommit 922a3ae78ab2bd55f70d4ebb90e12a9195ced267[m
+Merge: c324c74 ef73d29
+Author: Ahmad Saugi <45036724+zuramai@users.noreply.github.com>
+Date:   Wed May 19 18:38:58 2021 +0700
+
+    Merge pull request #3 from sur2548/bug-fix-and-upgrade
+    
+    Bug fix and upgrade
+
+[33mcommit ef73d2991b20eddc12049f52c201f652bb7848e4[m
+Author: Surajit Mondal <sur2548@gmail.com>
+Date:   Wed Mar 17 14:33:41 2021 +0530
+
+    Added Laravel Debugbar
+
+[33mcommit f4e8ec090fbb3d21347189598b4abec585bafd80[m
+Author: Surajit Mondal <sur2548@gmail.com>
+Date:   Wed Mar 17 14:22:52 2021 +0530
+
+    Added Tailwind CSS In mix
+
+[33mcommit e689003cdd0dfb66e7d329cad8f44e8cbd33dc60[m
+Author: Surajit Mondal <sur2548@gmail.com>
+Date:   Wed Mar 17 14:22:16 2021 +0530
+
+    1. Fixed Logout Bug
+    2. Added Default Admin For Seed
+    3. Extracted Some Components
+    4. Deleted Unnecessary Liviewire Classes
+
+[33mcommit c324c74d36bacd1d1c3235338adecfcc4ec67b6d[m
+Author: Ahmad Saugi <45036724+zuramai@users.noreply.github.com>
+Date:   Mon Jan 25 08:19:59 2021 +0700
+
+    Update README.md
+
+[33mcommit 9e425bfa7adfc5fa07669e3daeaa29d2f41dd078[m
+Author: Ahmad Saugi <45036724+zuramai@users.noreply.github.com>
+Date:   Mon Jan 25 08:19:44 2021 +0700
+
+    :memo: update instructions
+
+[33mcommit 8a41e0737ba973f9126b599b9803c60d0d679720[m
+Author: Ahmad Saugi <45036724+zuramai@users.noreply.github.com>
+Date:   Mon Jan 25 05:12:36 2021 +0700
+
+    :memo: update readme
+
+[33mcommit 455f5d013aac13bc7b23fbb0bbf56de8ebe5bfe3[m
+Author: Ahmad Saugi <45036724+zuramai@users.noreply.github.com>
+Date:   Sun Jan 24 20:40:32 2021 +0700
+
+    :memo: update readme
+
+[33mcommit df9047696304d591f8591c64e264bee1aea98347[m
+Author: Ahmad Saugi <45036724+zuramai@users.noreply.github.com>
+Date:   Sun Jan 24 20:37:44 2021 +0700
+
+    :memo: update readme
+
+[33mcommit c290ed4d60265339ae0d29e33b0d5b98db95956b[m
+Author: zuramai <ahmadsaugigis@yahoo.com>
+Date:   Sun Jan 24 20:26:05 2021 +0700
+
+    :sparkles: whoosh
